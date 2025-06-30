@@ -1,6 +1,6 @@
 {
-  "name": "小勇云影视",
-  "short_name": "小勇云影视",
+  "name": "moontv",
+  "short_name": "moontv",
   "description": "影视聚合",
   "start_url": "/",
   "scope": "/",
